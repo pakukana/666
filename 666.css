@@ -92,11 +92,11 @@ header a{
     padding-right: 50px;
 }
 
-#pic3{
+pic3{
     max-width: 100%;
     -webkit-transform:rotate(0deg);
-    width: 260px;
-    height: 260px;
+    width: 240px;
+    height: 240px;
     object-fit: cover;
 }
 
